@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3fd76269bed05404eb69e7370ca10579
+timeCreated: 1475504581
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_TargetGraphic: {instanceID: 0}
+  - guiStyle: {fileID: 11400000, guid: d26fb0fbee90a1644a9b8cd70f3b4785, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

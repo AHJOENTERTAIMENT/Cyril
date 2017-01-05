@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7833dbf2c2f5c6143afedbce67a6345f
+timeCreated: 1480284841
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - parentActor: {instanceID: 0}
+  - surfaceSoundMap: {fileID: 11400000, guid: 26d04559e33bae9448cdb632c178e431, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

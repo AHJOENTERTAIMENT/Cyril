@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0f3019a377af42f47845a025a72ad4d9
+timeCreated: 1475434631
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - b_sourceImage: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - b_material: {instanceID: 0}
+  - b_font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - if_sourceImage: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  - if_material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
